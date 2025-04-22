@@ -29,7 +29,11 @@ reusable functions that solve specific tasks. This activity encourages:
 // Create a function that:
 // - Takes a name and a role (e.g., "Alice", "speaker")
 // - Returns a string in the format: "Name: Alice, Role: Speaker"
+function genbadge(name,role){ 
+    let name
+    console.log("Name:" $(name)"")
 
+}
 // Steps:
 // 1. Define the function with two parameters.
 // 2. Format the output string properly.
